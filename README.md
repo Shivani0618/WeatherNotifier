@@ -17,7 +17,7 @@ This Python script uses the OpenWeatherMap API to retrieve weather data such as 
 
 **📄 JSON File Format**
 <br>
-<img src="https://github.com/Shivani0618/WeatherNotifier/blob/main/JSON_file.png?raw=true" alt="Weather Notifier Preview" width="400"/>
+<img src="https://github.com/Shivani0618/WeatherNotifier/blob/main/config.png?raw=true" alt="Weather Notifier Preview" width="400"/>
 
 **🧪 Example Notification**
 <br>
