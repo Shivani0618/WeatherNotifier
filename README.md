@@ -14,6 +14,11 @@ Get real-time weather updates straight to your desktop! This cross-platform Pyth
 
 This Python script uses the OpenWeatherMap API to retrieve weather data such as temperature, humidity, pressure, and a short description of the current weather. It then displays a desktop notification on your system at scheduled intervals.
 
+
+**📄 JSON File Format**
+<br>
+<img src="https://github.com/Shivani0618/WeatherNotifier/blob/main/JSON_file.png?raw=true" alt="Weather Notifier Preview" width="400"/>
+
 **🧪 Example Notification**
 <br>
 <img src="https://github.com/Shivani0618/WeatherNotifier/blob/main/Notification.png?raw=true" alt="Weather Notifier Preview" width="400"/>
@@ -41,14 +46,7 @@ python weather_notifier.py
 ```
 python weather_notifier.py –city “Delhi” –interval 15
 ```
-**📦 File Structure**
-```
-WeatherNotifier/
-├── config.json           # Stores API key, city, and settings
-├── weather_notifier.py   # Main script
-├── README.md             # You’re here!
-└── WeatherNotifier.ipynb # Notebook version (for exploration)
-```
+
 **🔐 Note**
 
 -Make sure to replace the placeholder API key with your actual OpenWeatherMap API key. <br>
